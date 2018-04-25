@@ -28,4 +28,3 @@ coverage.*
 .dockerignore
 
 # Build-output
-dist/
